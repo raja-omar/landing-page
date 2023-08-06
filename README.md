@@ -1,2 +1,2 @@
-practice project for HTML 🤖
+practice project for CSS 🤖
 
